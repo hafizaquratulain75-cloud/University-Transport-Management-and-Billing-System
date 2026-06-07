@@ -56,7 +56,7 @@ This system automates university transport operations including student registra
 ## Contributors
 
 * Hafiza Qurat-ul-Ain
-* [Group Member Name]
+* Muhammad Samiullah
 
 ## Supervisor
 
